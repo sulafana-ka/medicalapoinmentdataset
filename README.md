@@ -27,7 +27,7 @@ The following manual steps were executed in Excel to ensure data quality and con
 
 *ID Formatting:
 
- -The PatientId column was formatted to remove scientific notation (e.g., 2.98725E+13), ensuring the full 15-digit ID is displayed as a number or text.
+ -The PatientId column was formatted to remove scientific notation (e.g., 2.98725E+13), ensuring the full 15-digit ID is displayed as a number.
 
 *Data Encoding:
 
@@ -43,7 +43,7 @@ The following manual steps were executed in Excel to ensure data quality and con
 
 The cleaned file medicalappointmentdata.xlsx , is now ready for use in any data analysis or modeling environment (e.g., Python, R, Tableau, etc.).
 
- 1.Download the 'medicalappointment data.xlsx' file.
+ 1.Download the 'medicalappointment data'.xlsx file.
 
  2.Import it into your preferred analysis tool.
 

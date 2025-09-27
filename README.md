@@ -43,7 +43,7 @@ The following manual steps were executed in Excel to ensure data quality and con
 
 The cleaned file medicalappointmentdata.xlsx , is now ready for use in any data analysis or modeling environment (e.g., Python, R, Tableau, etc.).
 
- 1.Download the 'medicalappointment data'.xlsx file.
+ 1.Download the 'medicalappointment data.xlsx' file.
 
  2.Import it into your preferred analysis tool.
 
